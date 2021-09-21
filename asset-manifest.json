@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/chuldeokquiz/static/js/main.a92fcd2c.chunk.js",
+    "main.js.map": "/chuldeokquiz/static/js/main.a92fcd2c.chunk.js.map",
+    "runtime-main.js": "/chuldeokquiz/static/js/runtime-main.9332c90c.js",
+    "runtime-main.js.map": "/chuldeokquiz/static/js/runtime-main.9332c90c.js.map",
+    "static/js/2.a172eaee.chunk.js": "/chuldeokquiz/static/js/2.a172eaee.chunk.js",
+    "static/js/2.a172eaee.chunk.js.map": "/chuldeokquiz/static/js/2.a172eaee.chunk.js.map",
+    "index.html": "/chuldeokquiz/index.html",
+    "static/js/2.a172eaee.chunk.js.LICENSE.txt": "/chuldeokquiz/static/js/2.a172eaee.chunk.js.LICENSE.txt",
+    "static/media/또타.109fd18f.png": "/chuldeokquiz/static/media/또타.109fd18f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9332c90c.js",
+    "static/js/2.a172eaee.chunk.js",
+    "static/js/main.a92fcd2c.chunk.js"
+  ]
+}
