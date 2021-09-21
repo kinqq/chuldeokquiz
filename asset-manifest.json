@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/chuldeokquiz/static/js/main.a92fcd2c.chunk.js",
-    "main.js.map": "/chuldeokquiz/static/js/main.a92fcd2c.chunk.js.map",
+    "main.js": "/chuldeokquiz/static/js/main.bde2bff4.chunk.js",
+    "main.js.map": "/chuldeokquiz/static/js/main.bde2bff4.chunk.js.map",
     "runtime-main.js": "/chuldeokquiz/static/js/runtime-main.9332c90c.js",
     "runtime-main.js.map": "/chuldeokquiz/static/js/runtime-main.9332c90c.js.map",
     "static/js/2.a172eaee.chunk.js": "/chuldeokquiz/static/js/2.a172eaee.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.9332c90c.js",
     "static/js/2.a172eaee.chunk.js",
-    "static/js/main.a92fcd2c.chunk.js"
+    "static/js/main.bde2bff4.chunk.js"
   ]
 }
